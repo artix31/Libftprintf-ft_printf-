@@ -1,4 +1,4 @@
-											ft_printf
+						ft_printf
 
 a project that's made to replicate the printf function, with all its errors.
 
